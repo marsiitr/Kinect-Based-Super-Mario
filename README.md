@@ -38,4 +38,19 @@ Once you’ve created a game with Unity, deployment is a cinch. With a couple of
 C# is a hybrid of C and C++, it is a Microsoft programming language developed to compete with Sun's Java language. C# is an object-oriented programming language used with XML-based Web services on the .NET platform and designed for improving productivity in the development of Web applications.
 
 C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.
+## Team Members
+* Anfal Ansari
+* Harsh Jha 
+* Om Sinha
+* Rahul Gupta
+* Riya Tomar
+* Siddhart Singh Baghel    
+## Mentors
+* Sanjeev Krishnan
+* Shreeyash Geda
+* Yashutosh Bansal
+## References
+https://youtu.be/m3BAlJAGIkQ
+
+https://www.youtube.com/playlist?list=PLPVo9RUP6ijjg0TlybtjZCyiY3aiPGaLr
 

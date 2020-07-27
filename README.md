@@ -23,7 +23,8 @@ Srishti 2020
 2.	Screen Resolution of gameplay can be increased
 3.	Masking of background can be done in order to prevent unwanted structure detections.
 4.	Game can be made multiplayer
-## kinect
+## Kinect
+![alt text](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20videos/Images/Image%202.jpeg)
 The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.
 Although Kinect was developed for playing games, the technology has been applied to real-world applications as diverse as digital signage, virtual shopping, education, telehealth service delivery and other areas of health IT.
 ## Unity

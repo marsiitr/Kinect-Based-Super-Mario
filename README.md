@@ -23,4 +23,8 @@ Srishti 2020
 2.	Screen Resolution of gameplay can be increased
 3.	Masking of background can be done in order to prevent unwanted structure detections.
 4.	Game can be made multiplayer
+## Unity
+Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript (some peoples mistakenly call it JavaScript) and attached to 3D objects as components.
+
+That said, once you’ve created a game with Unity, deployment is a cinch. With a couple of clicks, you can export your game to mobile, desktop and/or web (web currently requires the Unity player app to be installed). If you have the right license, you can even deploy to gaming consoles like Xbox, Playstation and Wii.
 

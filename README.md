@@ -48,11 +48,11 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 4.	Game can be made multiplayer
 ## Team Members
 1. [Anfal Ansari](https://github.com/AnfalAnsari/)
-1. Harsh Jha 
-1. Om Sinha
+1. [Harsh Jha](https://github.com/harshjha51) 
+1. [Om Sinha]()
 1. [Rahul Gupta](https://github.com/rahulgupta2024)
 1. [Riya Tomar](https://github.com/Ria158/)
-1. Siddhart Singh Baghel    
+1. [Siddhart Singh Baghel](https://github.com/Sidbaghel)    
 ## Mentors
 1. [Sanjeev Krishnan](https://github.com/SanjeevKrishnan)
 1. [Shreeyash Geda](https://github.com/convman)

@@ -20,7 +20,7 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 ## Electronics Aspects
 ### Kinect
 
-![](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20videos/Images/kinect.jpeg)
+![](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20Videos/Images/kinect.jpeg)
 
 
 <p align="justify">The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.</p>

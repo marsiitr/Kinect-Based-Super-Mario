@@ -3,16 +3,16 @@ Srishti 2020
 ## Abstract
 Aim of the project is to build "super mario game" and integerate kinect as an interaction technique medium, thereby using your own body as a controller for super mario.
 ## Motivation
-Every year globally, people spend huge amount of time and money playing video games. Most people who engage in video game play choose to do so voluntarily because it is fun and they enjoy it so far. Video games were rated by how well the game satisfies our psychological needs
+<p align="justify">Every year globally, people spend huge amount of time and money playing video games. Most people who engage in video game play choose to do so voluntarily because it is fun and they enjoy it so far. Video games were rated by how well the game satisfies our psychological needs</p>
 
-Autonomy - flexibility over movement and strategies, Choice over tasks and goals, and rewards that provide feedback and not control.
+<p align="justify">Autonomy - flexibility over movement and strategies, Choice over tasks and goals, and rewards that provide feedback and not control.
 Competence-extent to which tasks provide ongoing challenges.
-Relatedness- interaction between players.
-Addressing the above parameters, we thought of introducing PHYSICAL aspect of it by transferring control to players body rather than keyboard. This would certainly increase.
+Relatedness- interaction between players.</p>
+<p align="justify">Addressing the above parameters, we thought of introducing PHYSICAL aspect of it by transferring control to players body rather than keyboard. This would certainly increase.</p>
 
-Presence - the extent to which the player feels within the environment as opposed to being outside the game manipulating the controls. 
+<p align="justify">Presence - the extent to which the player feels within the environment as opposed to being outside the game manipulating the controls. 
 Intuitive-controls- The extent to which the controls make sense and don't interfere with feeling of presence, making it vividly interactive and acceptable.
-
+</p>
 
 
 ## Kinect
@@ -20,12 +20,14 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 ![](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20videos/Images/kinect.jpeg)
 
 
-The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.
-Although Kinect was developed for playing games, the technology has been applied to real-world applications as diverse as digital signage, virtual shopping, education, telehealth service delivery and other areas of health IT.
-## Software: Unity
-Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript (some peoples mistakenly call it JavaScript) and attached to 3D objects as components.
+<p align="justify">The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.</p>
+<p align="justify">Although Kinect was developed for playing games, the technology has been applied to real-world applications as diverse as digital signage, virtual shopping, education, telehealth service delivery and other areas of health IT.</p>
 
-Once you’ve created a game with Unity, deployment is a cinch. With a couple of clicks, you can export your game to mobile, desktop and/or web (web currently requires the Unity player app to be installed). If you have the right license, you can even deploy to gaming consoles like Xbox, Playstation and Wii.
+## Software: Unity
+<p align="justify">Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript (some peoples mistakenly call it JavaScript) and attached to 3D objects as components.</p>
+
+<p align="justify">Once you’ve created a game with Unity, deployment is a cinch. With a couple of clicks, you can export your game to mobile, desktop and/or web (web currently requires the Unity player app to be installed). If you have the right license, you can even deploy to gaming consoles like Xbox, Playstation and Wii.</p>
+
 ## Programming Language: C#
 C# is a hybrid of C and C++, it is a Microsoft programming language developed to compete with Sun's Java language. C# is an object-oriented programming language used with XML-based Web services on the .NET platform and designed for improving productivity in the development of Web applications.
 

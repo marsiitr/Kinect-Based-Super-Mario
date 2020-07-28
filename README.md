@@ -13,16 +13,7 @@ Addressing the above parameters, we thought of introducing PHYSICAL aspect of it
 Presence - the extent to which the player feels within the environment as opposed to being outside the game manipulating the controls. 
 Intuitive-controls- The extent to which the controls make sense and don't interfere with feeling of presence, making it vividly interactive and acceptable.
 
-## Limitation
-1.	The kinect sensor is sensitive to external infrared source (Sunlight).
-2.	It requires lot of space as one needs to stand at least 7 ft. away from the sensor
-3.	Low quality graphics of the game
-4.	Motion is detected in two dimensions only
-## Future improvement
-1.	Kinect’s microphone can be assigned some of the controls of the game
-2.	Screen Resolution of gameplay can be increased
-3.	Masking of background can be done in order to prevent unwanted structure detections.
-4.	Game can be made multiplayer
+
 ## Kinect
 
 ![](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20videos/Images/kinect.jpeg)
@@ -39,18 +30,28 @@ C# is a hybrid of C and C++, it is a Microsoft programming language developed to
 
 C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.
 ## Team Members
-* Anfal Ansari
-* Harsh Jha 
-* Om Sinha
-* Rahul Gupta
-* Riya Tomar
-* Siddhart Singh Baghel    
+1. ![Anfal Ansari](https://github.com/AnfalAnsari/)
+1. Harsh Jha 
+1. Om Sinha
+1. Rahul Gupta
+1. Riya Tomar
+1. Siddhart Singh Baghel    
 ## Mentors
-* Sanjeev Krishnan
-* Shreeyash Geda
-* Yashutosh Bansal
+1. ![Sanjeev Krishnan]()
+1. Shreeyash Geda
+1. Yashutosh Bansal
 ## References
 https://youtu.be/m3BAlJAGIkQ
 
 https://www.youtube.com/playlist?list=PLPVo9RUP6ijjg0TlybtjZCyiY3aiPGaLr
+## Limitation
+1.	The kinect sensor is sensitive to external infrared source (Sunlight).
+2.	It requires lot of space as one needs to stand at least 7 ft. away from the sensor
+3.	Low quality graphics of the game
+4.	Motion is detected in two dimensions only
+## Future improvement
+1.	Kinect’s microphone can be assigned some of the controls of the game
+2.	Screen Resolution of gameplay can be increased
+3.	Masking of background can be done in order to prevent unwanted structure detections.
+4.	Game can be made multiplayer
 

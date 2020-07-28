@@ -23,12 +23,14 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 <p align="justify">The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.</p>
 <p align="justify">Although Kinect was developed for playing games, the technology has been applied to real-world applications as diverse as digital signage, virtual shopping, education, telehealth service delivery and other areas of health IT.</p>
 
-## Software: Unity
+## Electronics Aspects
+
+### Software: Unity
 <p align="justify">Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript (some peoples mistakenly call it JavaScript) and attached to 3D objects as components.</p>
 
 <p align="justify">Once you’ve created a game with Unity, deployment is a cinch. With a couple of clicks, you can export your game to mobile, desktop and/or web (web currently requires the Unity player app to be installed). If you have the right license, you can even deploy to gaming consoles like Xbox, Playstation and Wii.</p>
 
-## Programming Language: C#
+### Programming Language: C#
 <p align="justify">C# is a hybrid of C and C++, it is a Microsoft programming language developed to compete with Sun's Java language. C# is an object-oriented programming language used with XML-based Web services on the .NET platform and designed for improving productivity in the development of Web applications.</p>
 
 <p align="justify">C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.</p>

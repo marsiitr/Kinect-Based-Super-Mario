@@ -15,15 +15,16 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 </p>
 
 
-## Kinect
+
+
+## Electronics Aspects
+### Kinect
 
 ![](https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20videos/Images/kinect.jpeg)
 
 
 <p align="justify">The Kinect system identifies individual players through face recognition and voice recognition. A depth camera, which “sees” in 3-D, creates a skeleton image of a player and a motion sensor detects their movements. Speech recognition software allows the system to understand spoken commands and gesture recognition enables the tracking of player movements.</p>
 <p align="justify">Although Kinect was developed for playing games, the technology has been applied to real-world applications as diverse as digital signage, virtual shopping, education, telehealth service delivery and other areas of health IT.</p>
-
-## Electronics Aspects
 
 ### Software: Unity
 <p align="justify">Unity is, in short, a closed-source, cross-platform game development application. You create your game by manipulating objects in 3D and attaching various components to them. Even 2D games must be manipulated in 2D/3D. Scripts are written in C# (recommended), Boo or UnityScript (some peoples mistakenly call it JavaScript) and attached to 3D objects as components.</p>

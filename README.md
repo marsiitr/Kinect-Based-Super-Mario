@@ -1,9 +1,9 @@
 # Kinect-Based-Super-Mario
 Srishti 2020
 ## Abstract
-  Aim of the project is to build "super mario game" and integerate kinect as an interaction technique medium, thereby using your own body as a controller for super mario.
+Aim of the project is to build "super mario game" and integerate kinect as an interaction technique medium, thereby using your own body as a controller for super mario.
 ## Motivation
- Every year globally, people spend huge amount of time and money playing video games. Most people who engage in video game play choose to do so voluntarily because it is fun and they enjoy it so far. Video games were rated by how well the game satisfies our psychological needs
+Every year globally, people spend huge amount of time and money playing video games. Most people who engage in video game play choose to do so voluntarily because it is fun and they enjoy it so far. Video games were rated by how well the game satisfies our psychological needs
 
 Autonomy - flexibility over movement and strategies, Choice over tasks and goals, and rewards that provide feedback and not control.
 Competence-extent to which tasks provide ongoing challenges.
@@ -12,6 +12,7 @@ Addressing the above parameters, we thought of introducing PHYSICAL aspect of it
 
 Presence - the extent to which the player feels within the environment as opposed to being outside the game manipulating the controls. 
 Intuitive-controls- The extent to which the controls make sense and don't interfere with feeling of presence, making it vividly interactive and acceptable.
+
 
 
 ## Kinect
@@ -29,21 +30,6 @@ Once you’ve created a game with Unity, deployment is a cinch. With a couple of
 C# is a hybrid of C and C++, it is a Microsoft programming language developed to compete with Sun's Java language. C# is an object-oriented programming language used with XML-based Web services on the .NET platform and designed for improving productivity in the development of Web applications.
 
 C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.
-## Team Members
-1. ![Anfal Ansari](https://github.com/AnfalAnsari/)
-1. Harsh Jha 
-1. Om Sinha
-1. Rahul Gupta
-1. Riya Tomar
-1. Siddhart Singh Baghel    
-## Mentors
-1. ![Sanjeev Krishnan]()
-1. Shreeyash Geda
-1. Yashutosh Bansal
-## References
-https://youtu.be/m3BAlJAGIkQ
-
-https://www.youtube.com/playlist?list=PLPVo9RUP6ijjg0TlybtjZCyiY3aiPGaLr
 ## Limitation
 1.	The kinect sensor is sensitive to external infrared source (Sunlight).
 2.	It requires lot of space as one needs to stand at least 7 ft. away from the sensor
@@ -54,4 +40,20 @@ https://www.youtube.com/playlist?list=PLPVo9RUP6ijjg0TlybtjZCyiY3aiPGaLr
 2.	Screen Resolution of gameplay can be increased
 3.	Masking of background can be done in order to prevent unwanted structure detections.
 4.	Game can be made multiplayer
+## Team Members
+1. [Anfal Ansari](https://github.com/AnfalAnsari/)
+1. Harsh Jha 
+1. Om Sinha
+1. [Rahul Gupta](https://github.com/rahulgupta2024)
+1. [Riya Tomar](https://github.com/Ria158/)
+1. Siddhart Singh Baghel    
+## Mentors
+1. [Sanjeev Krishnan](https://github.com/SanjeevKrishnan)
+1. [Shreeyash Geda](https://github.com/convman)
+1. [Yashutosh Bansal](https://github.com/yashutoshbansal/)
+## References
+https://youtu.be/m3BAlJAGIkQ
+
+https://www.youtube.com/playlist?list=PLPVo9RUP6ijjg0TlybtjZCyiY3aiPGaLr
+
 

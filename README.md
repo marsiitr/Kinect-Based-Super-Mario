@@ -31,7 +31,8 @@ Intuitive-controls- The extent to which the controls make sense and don't interf
 ## Programming Language: C#
 C# is a hybrid of C and C++, it is a Microsoft programming language developed to compete with Sun's Java language. C# is an object-oriented programming language used with XML-based Web services on the .NET platform and designed for improving productivity in the development of Web applications.
 
-C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.
+<p align="justify">C# boasts type-safety, garbage collection, simplified type declarations, versioning and scalability support, and other features that make developing solutions faster and easier, especially for COM+ and Web services. Microsoft critics have pointed to the similarities between C# and Java.</p>
+
 ## Limitation
 1.	The kinect sensor is sensitive to external infrared source (Sunlight).
 2.	It requires lot of space as one needs to stand at least 7 ft. away from the sensor

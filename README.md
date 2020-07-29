@@ -14,7 +14,8 @@ Relatedness- interaction between players.</p>
 Intuitive-controls- The extent to which the controls make sense and don't interfere with feeling of presence, making it vividly interactive and acceptable.
 </p>
 
-
+## Workflow
+<img src="https://github.com/AnfalAnsari/Kinect-Based-Super-Mario/blob/master/Images%20and%20Videos/Images/Workflow%20diagram.jpeg" width = 600>
 
 
 ## Electronics Aspects
